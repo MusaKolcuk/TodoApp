@@ -2,6 +2,9 @@
 **TodoApp Proje**
 
 
+<span style="color:red">Html, Css ve Javascript kullanarak hazırladığım TodoApp Projeme ait resimler aşağıda bulunmaktadır.</span>
+
+
 *Tüm Görevler*
 
 ![Tüm Görevler](https://user-images.githubusercontent.com/82619526/222407907-7ea70f33-b68d-487b-a259-0582005c3070.png)
